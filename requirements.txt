@@ -3,5 +3,3 @@ streamlit_option_menu
 plotly
 matplotlib
 pymongo
-calender
-datetime
