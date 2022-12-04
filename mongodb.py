@@ -1,6 +1,6 @@
 import pymongo
 
-client = pymongo.MongoClient("mongodb+srv://aakiliqbal:Aadiliqbal645@cluster0.fjefnuj.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("auth key")
 mydb = client.expense_tracker
 mycol = mydb.monthly_report
 
